@@ -1,0 +1,38 @@
+body {
+ background-image: url(photos/b1.jpg);
+ background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+   position: relative;
+   margin: auto;
+   background-attachment: fixed;
+}
+
+
+
+.button{
+background-color:#FFFAF0;
+border: none;
+display: block;
+padding: 8px 2px;
+margin: 5px 45%;
+text-decoration: none;
+color: #000;
+}
+
+.button:hover{
+    background-color: #555;
+}
+
+
+
+.start{
+    text-align: center;
+}
+
+
+.special-gothic-expanded-one-regular {
+  font-family: "Special Gothic Expanded One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}

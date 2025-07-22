@@ -1,0 +1,45 @@
+body{
+	background-color:#FFEBCD ;
+	margin-bottom: 300px;
+	margin-top: 100px;
+}
+
+
+img{
+	width: 40%;
+	height: 50%;
+}
+
+p{
+	text-align: center;
+	font-family: serif;
+}
+
+.container{
+	display: flex;
+	align-items: center;
+}
+
+.container1{
+	display: flex;
+	align-items: center;
+	margin-top: 60px;
+}
+
+.text{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.contact{
+	text-decoration: none;
+	background-color: #633328;
+	padding: 16px 16px;
+	color: #F5F5DC;
+	font-family: Arial;
+	margin-top: 70px;
+}
+
+.contact:hover{
+	background-color: #DEB887;
+}
